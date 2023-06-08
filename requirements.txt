@@ -1,0 +1,5 @@
+mkdocs-material
+pillow
+cairosvg
+pipwin
+# pipwin install cairocffi
